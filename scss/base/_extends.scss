@@ -1,0 +1,6 @@
+%boton{
+        background-color:  map-get($colores, "color-principal");
+        width: 100px;
+        height: 25px;
+        border: solid 1px  map-get($colores, "color-principal");
+}

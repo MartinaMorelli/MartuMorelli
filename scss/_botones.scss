@@ -1,0 +1,15 @@
+@import './base/extends';
+
+.boton1 {
+    @extend %boton;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.boton3 {
+    @extend %boton;
+    grid-area: boton3;
+    margin-left: 550px;
+}

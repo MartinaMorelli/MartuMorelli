@@ -1,0 +1,27 @@
+.banner-servicios{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:map-get($colores, "color-terciario");
+    background-image:  url(../imagenes/fotoservicios.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    h1 {
+        text-decoration: none;
+        font-size: 50px;
+        color:map-get($colores, "color-principal");
+        text-align: center;
+        font-weight: 100;
+    }
+}
+.servicios{
+    margin: 20px;
+    img{ 
+        width: 100%;
+    }
+    p{
+        margin: auto;
+    }
+}
