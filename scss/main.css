@@ -90,14 +90,6 @@ footer h3 {
   background-color: white;
   background-image: url(../imagenes/fotoindex.jpg);
   background-size: cover;
-  width: 100;
-}
-.banner h1 {
-  text-decoration: none;
-  font-size: 50px;
-  color: black;
-  text-align: center;
-  font-weight: 100;
 }
 
 .boton1 a {
@@ -239,7 +231,6 @@ aside {
   background-image: url(../imagenes/fotoaboutme.jpg);
   background-size: cover;
   height: 100vh;
-  width: 100%;
 }
 .banner-aboutme h1 {
   text-decoration: none;
@@ -277,7 +268,6 @@ aside {
   background-image: url(../imagenes/fotocontacto.jpg);
   background-size: cover;
   height: 100vh;
-  width: 100%;
 }
 .banner-contacto h1 {
   text-decoration: none;
@@ -335,7 +325,6 @@ form div {
   background-image: url(../imagenes/fotoservicios.jpg);
   background-size: cover;
   height: 100vh;
-  width: 100%;
 }
 .banner-servicios h1 {
   text-decoration: none;
